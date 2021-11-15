@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #ecf0f1;
+}
+.assignment {
+    width: 500px;
+    padding: 30px;
+    margin: 30px auto;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    background: white;
+}
+.wall input {
+    width: 120px;
+}
